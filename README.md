@@ -1,0 +1,12 @@
+TODO: 
+- World Creation (landscape and foliage)
+- Pawn Classes creation
+- Character Classes Creation
+- Animation add
+- Animation Blueprint add/creation
+- Collision and overlap fixes
+- weapon logic addon
+- Attacking logivc
+- Weapon Mechanics
+- Enemy Behavior
+- Combat
